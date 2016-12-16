@@ -1,6 +1,6 @@
 # DataCamp2016 @ Ecole polytechnique
 In this challenge, we are given Raman spectra for 1000 chemical solutions with different containers, solutes, molecules (4 different molecules for chemiotherapy usage) and concentrations.
-Administering the right molecule at the right concentration is a crucial point for the chemiotherapy to be successful.
+Providing the right molecule at the right concentration is a crucial point for the chemiotherapy to be successful.
 
 This project is about optimizing these two problems: 
 
