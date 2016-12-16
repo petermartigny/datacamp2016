@@ -12,10 +12,14 @@ Predict the concentration of the molecules
 
 ### Metrics used
 Classification: 0/1 loss
+
 Regression: MARE
+
 Combined: 2/3 * clf + 1/3 * reg
 
 #### Scores (combined)
 Frome the starting kit: 0.15
+
 Final individual score: 0.053
+
 Score after collaborative session: 0.040
